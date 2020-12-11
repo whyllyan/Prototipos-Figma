@@ -1,8 +1,8 @@
 # Prototipos-Figma
 Protótipo de Aplicaçõe desenvolvido no figma.
 
-                      <h1 align="center">
-    <img alt="Happy" title="JOB's" src=".github/logo.svg" />
+     <h1 align="center">
+    <img alt="Happy" title="Happy" src=".github/logo.svg" />
 </h1>
 
 🚀 Tecnologias
