@@ -12,9 +12,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Happy" src=".github/happy.png" width="50%">
-</p>
 
 ## 🚀 Tecnologias
 
@@ -28,5 +25,5 @@ O JOB'S é uma aplicação que conecta vagas de empresas a perfis de candidatos 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/NTEFujh8cPJK6MoxiJKmVo/Telas?node-id=0%3A1). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
